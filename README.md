@@ -12,32 +12,32 @@ This version uses a sanitized dummy dataset for public sharing and learning purp
 👉 [Dataset](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Hospital_ER_dataset.csv)
 
 ## Question  (KPIs) 
-1. Measure the total number of patients visiting the ER daily.
-2. Calculate the average time a patient waits before being attended to medical professional.
-3. Analyze the average satisfaction score to evaluate service quality.
-4. Count the number of patients referred to specific departments.
+    1. Measure the total number of patients visiting the ER daily.
+    2. Calculate the average time a patient waits before being attended to medical professional.
+    3. Analyze the average satisfaction score to evaluate service quality.
+    4. Count the number of patients referred to specific departments.
 
 
 ## Charts to Develop 
-1. Track admitted vs. non-admitted patients (Admission Status).
-2. Group patients by 10-year age intervals (Age Distribution).
-3. Visualize referral trends across departments.
-4. Percentage of patients seen within 30 minutes.
-5. Distribution of patients by gender.
-6. Distribution of patients by race.
-7. Patient volume trends by day and hour.
+    1. Track admitted vs. non-admitted patients (Admission Status).
+    2. Group patients by 10-year age intervals (Age Distribution).
+    3. Visualize referral trends across departments.
+    4. Percentage of patients seen within 30 minutes.
+    5. Distribution of patients by gender.
+    6. Distribution of patients by race.
+    7. Patient volume trends by day and hour.
 
 
 ## Steps Followed in Power BI:
 
-* Imported Excel dataset containing patient records and demographics.
-* Cleaned data in Power Query (renamed columns, removed nulls/blanks).
-* Created calculated columns and measures (e.g., Age Groups, Wait Time, Admission Status).
-* Built a separate Date Table for accurate time-based calculations (day, month, hour).
-* Replaced gender initials with full forms; added full name column.
-* Designed four report pages: Monthly View, Consolidated View, Patient Details, Analytical Highlights.
-* Replaced real data with dummy file for GitHub upload.
-* Updated dashboard visuals and summaries to match the dummy data.
+    * Imported Excel dataset containing patient records and demographics.
+    * Cleaned data in Power Query (renamed columns, removed nulls/blanks).
+    * Created calculated columns and measures (e.g., Age Groups, Wait Time, Admission Status).
+    * Built a separate Date Table for accurate time-based calculations (day, month, hour).
+    * Replaced gender initials with full forms; added full name column.
+    * Designed four report pages: Monthly View, Consolidated View, Patient Details, Analytical Highlights.
+    * Replaced real data with dummy file for GitHub upload.
+    * Updated dashboard visuals and summaries to match the dummy data.
 
 
 ## Dashboard
