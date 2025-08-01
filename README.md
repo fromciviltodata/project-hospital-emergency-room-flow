@@ -9,7 +9,7 @@ Note: The original dashboard used a dataset with over 10,000 rows.
 This version uses a sanitized dummy dataset for public sharing and learning purposes.
 
 ## Dataset Used
-[Dataset](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/github-excel-dummy-file-hospital-er.csv)
+[Dataset](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Hospital_ER_dataset.csv)
 
 ## Question  (KPIs) 
 1. Measure the total number of patients visiting the ER daily.
@@ -41,7 +41,7 @@ This version uses a sanitized dummy dataset for public sharing and learning purp
 
 
 ## Dashboard
-👉 [📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Capture.JPG)
+👉 [📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Dashboard_image)
 
 ## Project Insight
 * Average patient wait time exceeds 30 minutes, indicating a need for process improvement.
