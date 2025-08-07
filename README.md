@@ -8,6 +8,10 @@ These insights help optimize resource allocation and improve patient care in the
 Note: The original dashboard used a dataset with over 10,000 rows.
 This version uses a sanitized dummy dataset for public sharing and learning purposes.
 
+
+## Dashboard
+![📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Dashboard_image)
+
 ## Dataset Used
 👉 [Dataset](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Hospital_ER_dataset.csv)
 
@@ -40,8 +44,6 @@ This version uses a sanitized dummy dataset for public sharing and learning purp
     * Updated dashboard visuals and summaries to match the dummy data.
 
 
-## Dashboard
-![📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Dashboard_image)
 
 ## Project Insight
 * Average patient wait time exceeds 30 minutes, indicating a need for process improvement.
