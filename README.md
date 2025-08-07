@@ -41,7 +41,7 @@ This version uses a sanitized dummy dataset for public sharing and learning purp
 
 
 ## Dashboard
-👉 [📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Dashboard_image)
+![📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Dashboard_image)
 
 ## Project Insight
 * Average patient wait time exceeds 30 minutes, indicating a need for process improvement.
