@@ -84,10 +84,3 @@ Demographic splits (age, gender, race) provide opportunities to design **patient
 ## Dataset Used
 👉 [Dataset](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Hospital_ER_dataset.csv)
 
-
-
-
-
-## Future Scope
-This dashboard can be enhanced in the future by integrating Power BI’s built-in forecasting feature.  
-Alternatively, predictive modeling techniques could be used to anticipate patient volume trends and support proactive staffing decisions.
