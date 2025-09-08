@@ -1,4 +1,5 @@
-# Emergency-Room-Patient-Flow-Analysis (Interactive Dashboard Creation Using Power BI)
+# Emergency-Room-Patient-Flow-Analysis
+(Interactive Dashboard Creation Using Power BI)
 
 📊 This Power BI dashboard analyzes emergency room patient visits, wait times, admission rates, referral patterns, and demographic trends.
 These insights help optimize resource allocation and improve patient care in the emergency department.
