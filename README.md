@@ -3,7 +3,7 @@
 (Interactive Dashboard built in Power BI)
 
 ### Dashboard
-![📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Dashboard_image)
+![📊 View Dashboard](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/high%20quality%20hospital%20dashboard%20image.JPG)
 
 ### 📊 Project Overview
 
