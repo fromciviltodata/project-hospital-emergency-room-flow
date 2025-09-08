@@ -25,7 +25,7 @@ Built entirely in Power BI, the dashboard helps identify operational bottlenecks
 
 👉 Each KPI is supported by a trend line, allowing quick identification of rising or falling patterns
 
-### Operational Insights (Main Visuals)**
+### Operational Insights (Main Visuals)
 
 * **Admission Status:** Almost half of ER patients are admitted (44%), while 56% are treated and discharged.
 
