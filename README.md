@@ -15,13 +15,13 @@ Built entirely in Power BI, the dashboard helps identify operational bottlenecks
 
 ### Key KPIs (Top Panel)
 
-* **Total Patients:** 299 in the selected month
+* **Total Patients:** 9216 in the selected months
 
-* **Avg. Waiting Time:** 36.6 minutes ⏳
+* **Avg. Waiting Time:** 35.3 minutes ⏳
 
-* **Patient Satisfaction Score:** 5.07/10
+* **Patient Satisfaction Score:** 4.99/10
 
-* **No. of Patients Referred:** 128
+* **No. of Patients Referred:** 3816
 
 👉 Each KPI is supported by a trend line, allowing quick identification of rising or falling patterns
 
@@ -29,9 +29,9 @@ Built entirely in Power BI, the dashboard helps identify operational bottlenecks
 
 * **Admission Status:** Almost half of ER patients are admitted (44%), while 56% are treated and discharged.
 
-* **Patients Seen Within 30 Minutes:** Only 35% met the timeliness target — a red flag for efficiency.
+* **Patients Seen Within 30 Minutes:** Only 40% met the timeliness target — a red flag for efficiency.
 
-* **By Age Group:** The 10–29 age bracket dominates ER visits, suggesting a younger demographic faces higher ER demand.
+* **By Age Group:** patients in their 60s and 70s dominates ER visits, suggesting a older demographic faces higher ER demand.
 
 * **By Gender:** Patient volume is almost evenly split (49% male, 51% female).
 
@@ -65,7 +65,7 @@ Demographic splits (age, gender, race) provide opportunities to design **patient
 
 ### ✅ Key Takeaways
 
-* **Wait Time Challenge:** With only 35% of patients seen within 30 minutes, process redesign is needed.
+* **Wait Time Challenge:** With only 40% of patients seen within 30 minutes, process redesign is needed.
 
 * **Staffing Needs:** Orthopedics and General Practice show consistent demand spikes.
 
