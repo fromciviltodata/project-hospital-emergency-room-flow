@@ -81,6 +81,4 @@ Demographic splits (age, gender, race) provide opportunities to design **patient
 
 * Integrate real-time data for live **ER monitoring.**
 
-## Dataset Used
-👉 [Dataset](https://github.com/fromciviltodata/project-hospital-emergency-room-flow/blob/main/Hospital_ER_dataset.csv)
 
